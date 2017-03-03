@@ -1,0 +1,22 @@
+{
+  "name": "jhoyberrocaltheme",
+  "description": "Jhoy Berrocal Theme wordpress",
+  "main": "",
+  "authors": [
+    "Jhoy Berrocal"
+  ],
+  "license": "ISC",
+  "homepage": "http://jhoyberrocal.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animejs": "^2.0.0",
+    "jquery": "^3.1.1"
+  }
+}
