@@ -1,7 +1,7 @@
 {
-  "name": "jhoyberrocaltheme",
+  "name": "frontend-esqueleton",
   "version": "1.0.0",
-  "description": "Jhoy Berrocal Theme wordpress",
+  "description": "Frontend Esqueleton",
   "author": "Jhoy Berrocal",
   "license": "ISC",
   "devDependencies": {
@@ -14,7 +14,9 @@
     "cssnano": "^3.10.0",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.3.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "shelljs": "^0.7.6"
   },
   "scripts": {
     "start": "node main.js"
